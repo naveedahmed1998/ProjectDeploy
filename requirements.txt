@@ -1,0 +1,6 @@
+dash==2.17.0
+dash_auth==2.3.0
+pandas==2.2.2
+yfinance==0.2.40
+gunicorn
+dash-tools
